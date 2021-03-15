@@ -7,3 +7,4 @@
 6. [Golang 语言标准库 sync/atomic 包原子操作](https://mp.weixin.qq.com/s/RkvCsRJQFnBhR7D_Tkh1oQ)
 7. [Golang 语言标准库 context 包控制 goroutine](https://mp.weixin.qq.com/s/ynj97tpP32vJ4AeHEQHtJQ)
 8. [Golang 语言使用 channel 并发编程](https://mp.weixin.qq.com/s/YczO-W5QGYxGVfp5cpyOqg)
+9. [Golang 语言标准库 sync 包的并发安全 map](https://mp.weixin.qq.com/s/vV2VMGguLgMik-FjIlDWKA)
